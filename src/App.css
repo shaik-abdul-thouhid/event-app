@@ -1,0 +1,12 @@
+.main-container {
+	margin-top: 13px;
+	width: 100%;
+	overflow: auto;
+	padding: 13px;
+	display: block;
+}
+
+.error-message {
+	color: #ff0000;
+	font-size: 17px;
+}

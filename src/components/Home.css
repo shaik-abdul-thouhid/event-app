@@ -1,0 +1,61 @@
+.eventslist {
+    display: inline-block;
+    float: left;
+    width: 70%;
+    margin-right: 15px;
+}
+
+.filterColumn {
+    float: right;
+    margin-right: 30px;
+    padding: 15px;
+    width: 24%
+}
+
+.filterColumn h1 {
+    color: #fe5800;
+    margin-bottom: 14px;
+}
+
+.filterColumn input {
+    display: block;
+    width: 100%;
+    margin-bottom: 12px;
+    height: 35px;
+    padding: 6px;
+    font-size: 17px;
+}
+
+input.inline-inputs {
+    width: 30%;
+    display: inline-block;
+    margin-right: 13px;
+}
+
+.filterColumn button {
+    width: 100%;
+    height: 30px;
+    margin-bottom: 50px;
+}
+
+input.last-child {
+    width: 30%;
+    display: inline-block;
+    margin-right: 0;
+}
+
+.eventslist table {
+    width: 100%;
+}
+
+.eventslist table tr {
+    margin-bottom: 0;
+}
+
+.eventslist table tr td {
+    text-align: center;
+    border-right: 1px solid #000;
+    border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-bottom: 0;
+}

@@ -1,0 +1,11 @@
+h3#filter {
+    color: #fe5800;
+}
+
+#user-filter p {
+    margin-bottom: 12px;
+}
+
+#user-filter select {
+    display: inline;
+}

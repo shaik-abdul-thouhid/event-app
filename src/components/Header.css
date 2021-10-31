@@ -1,0 +1,42 @@
+header {
+    margin-bottom: 15px;
+    display: relative;
+    padding-left: 40px;
+    padding-top: 5px;
+    width: 100%;
+    background-color: #ff7300;
+    height: 70px;
+}
+
+header .left-side {
+    float: left;
+    margin-top: 12px;
+}
+
+header .left-side h1 {
+    display: inline-block;
+    font-family: 'Merienda', cursive;
+}
+
+header .left-side h1:hover {
+    cursor: default;
+}
+
+header .right-side {
+    float: right;
+}
+
+header .right-side h3 {
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 20px;
+    color: #575757;
+}
+
+header .right-side button {
+    margin-top: 10px;
+    margin-right: 15px;
+    width: 70px;
+    height: 40px;
+    color: #676767;
+}
